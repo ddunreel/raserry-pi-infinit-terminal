@@ -1,2 +1,3 @@
 # raserry-pi-infinit-terminal
-aa
+please not you need python 3
+
